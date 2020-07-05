@@ -1,0 +1,15 @@
+Username: 
+Password:
+
+Go to Chrome localhost:8080
+
+Myfile is on C:\Program Files (x86)\Jenkins
+
+1st time
+Go to terminal
+run command java -jar jenkins.war
+Do this---java -jar"C:\Program Files (x86)\Jenkins\jenkins.war"
+Then go to localhost:8080
+make setup and create user
+
+We can stop jenkins by going to taskmanagar and do end task to Java...running software and when we go to localhost:8080 it will show error
